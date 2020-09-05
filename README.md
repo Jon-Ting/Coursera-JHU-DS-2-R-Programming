@@ -1,3 +1,5 @@
+Johns Hopkins University R Programming Coursera course assignments.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
